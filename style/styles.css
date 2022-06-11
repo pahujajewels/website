@@ -1,0 +1,151 @@
+
+/* title */
+#title{
+  background-image: url('https://images.unsplash.com/photo-1628926379972-9843ad139a8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: -70px -80px;
+  background-attachment: fixed;
+  color: #2c2925;
+  background-color: #f3e5c6;
+}
+
+ul.item>li {
+  display: inline-block;
+}
+
+.nav-link{
+    font-weight: 400;
+    color: #2c2925;
+
+
+}
+.container-fluid{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+
+  border-radius: 20px;
+  padding-left: 5%;
+
+}
+
+.title{
+  padding: 5% 5% 0 5%;
+}
+
+.title-heading {
+
+  padding-bottom: 6rem;
+  font-family: Cormorant Garamond;
+  font-weight: bolder;
+  font-size: 4rem;
+}
+
+.heading-subtitle{
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: normal;
+}
+
+.address{
+  padding-right: 0;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+#designs{
+
+  background-color: #FFF9F9;
+  color: #4a453d;
+
+}
+
+.design-row, .feature-row, #cta, #footer {
+  text-align: center;
+  padding: 5%;
+  padding-top: 2%;
+}
+
+.design-box{
+
+  font-family: Montserrat;
+}
+
+.design-img {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+h3{
+  font-family: Montserrat;
+  font-weight: bold;
+
+}
+
+
+
+/* we provide */
+
+#features{
+  background-color: #f4e5c8;
+  color: #4a453d;
+}
+
+h2{
+  font-size: 3rem;
+  font-weight: bolder;
+  letter-spacing: 2px;
+}
+
+
+.feature-box{
+  padding: 40px 0 10px;
+  font-family: Montserrat;
+
+}
+
+.feature-para{
+  padding: 0 3.2rem;
+}
+
+.icon{
+  padding-bottom: 15px;
+}
+/* cta */
+#cta{
+  color: #4a453d;
+}
+
+.cta-heading{
+  padding-top: 3%;
+  padding-bottom: 4%;
+}
+
+
+
+.whatsapp-btn{
+  margin: 10px;
+
+}
+
+
+#footer{
+  background-color: #f4e5c8;
+  padding: 2% 5% 1%;
+}
+
+.footer-icon{
+  color: #4a453d;
+  padding: 10px;
+}
+
+.Copyright{
+  color: #4a453d;
+  padding: 0;
+  margin: 0;
+}
